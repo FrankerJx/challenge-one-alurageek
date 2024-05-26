@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.cdnfonts.com/css/ibm-plex-mono-3" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Press Start 2P' rel='stylesheet'>
+    <link rel="stylesheet" href="styles/reset.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Challenge ONE - Alura Geek</title>
+</head>
+
+<body>
+    <header class="header">
+        <img class="logo__alura-geek" src="img/Logo-AluraGeek-wht.svg" alt="Logo Alura Geek">
+    </header>
+
+    <main class="main__container">
+        <section class="productos__section">
+            <h1>Mis productos:</h1>
+            <div class="productos__container" data-product>
+
+            </div>
+        </section>
+        <section class="formulario__section">
+            <h1>Agregar producto:</h1>
+            <form class="formulario__container" data-form>
+                <input data-nombre type="text" class="input__nombre" id="input__nombre" placeholder="nombre...">
+                <input data-precio type="text" class="input__precio" id="input__precio" placeholder="precio...">
+                <input data-imagen type="text" class="input__imagen" id="input__imagen" placeholder="imagen...">
+                <div class="botones__container">
+                    <button type="submit" class="boton-enviar" id="boton">Enviar</button>
+                    <button type="reset" class="boton-limpiar" id="boton">Limpiar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer__container">
+            <img src="img/Logo-AluraGeek-wht.svg" alt="Logo Alura pie de página" class="logo-alurageek_footer">
+            <p class="texto-autor">Desarrollado por Franker Jx</p>
+            <p class="texto-copyright">Alura Latam - 2024</p>
+        </div>
+    </footer>
+
+    <script type="module" src="js/controles/main.js"></script>
+
+</body>
+
+</html>

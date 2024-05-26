@@ -1,0 +1,114 @@
+{
+  "Productos": [
+    {
+      "id": "1",
+      "nombre": "Dark Vader",
+      "precio": "299",
+      "imagen": "https://ss639.liverpool.com.mx/sm/1138776561.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Meliodias",
+      "precio": "299",
+      "imagen": "https://ss639.liverpool.com.mx/sm/1138659727.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Spider-Man",
+      "precio": "677",
+      "imagen": "https://ss639.liverpool.com.mx/sm/1136383449.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Super Man",
+      "precio": "499",
+      "imagen": "https://ss639.liverpool.com.mx/sm/1099464034.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Azula",
+      "precio": "445",
+      "imagen": "https://ss610.liverpool.com.mx/sm/1107649197.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "Taza Térmica Gaara",
+      "precio": "175",
+      "imagen": "https://ss365.liverpool.com.mx/sm/1153741740.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Taza Térmica Naruto",
+      "precio": "175",
+      "imagen": "https://ss365.liverpool.com.mx/sm/1153740611.jpg"
+    },
+    {
+      "id": "8",
+      "nombre": "Poster Batman",
+      "precio": "99",
+      "imagen": "https://ss365.liverpool.com.mx/sm/1144926478.jpg"
+    }
+  ],
+  "ProductosEliminados": [
+    {
+      "id": "2",
+      "nombre": "Playstation 5 Digital",
+      "precio": "300",
+      "imagen": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$"
+    },
+    {
+      "id": "3",
+      "nombre": "Playstation 5 Controller - White",
+      "precio": "50",
+      "imagen": "https://m.media-amazon.com/images/I/61IIJGmdmnL._SL1500_.jpg"
+    },
+    {
+      "id": "11",
+      "nombre": "Iron Man",
+      "precio": "199",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_821913-MLU76300801345_052024-F.webp"
+    },
+    {
+      "id": "1",
+      "nombre": "Playstation 5 Controller - White",
+      "precio": "50",
+      "imagen": "https://m.media-amazon.com/images/I/61IIJGmdmnL._SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Dark Vader",
+      "precio": "299",
+      "imagen": "https://ss639.liverpool.com.mx/sm/1138776561.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Meliodias",
+      "precio": "299",
+      "imagen": "https://ss639.liverpool.com.mx/sm/1138659727.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Dark 2",
+      "precio": "677",
+      "imagen": "https://ss639.liverpool.com.mx/sm/1138776561.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Dark Vader",
+      "precio": "199",
+      "imagen": "https://ss639.liverpool.com.mx/sm/1138776561.jpg"
+    },
+    {
+      "id": "1",
+      "nombre": "Azula",
+      "precio": "445",
+      "imagen": "https://ss610.liverpool.com.mx/sm/1107649197.jpg"
+    },
+    {
+      "id": "8",
+      "nombre": "Poster Batman",
+      "precio": "99",
+      "imagen": "https://ss365.liverpool.com.mx/sm/1144926478.jpg"
+    }
+  ]
+}

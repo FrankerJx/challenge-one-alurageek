@@ -2,6 +2,8 @@
 
 Este challenge pertenece a la especialidad Front-End
 
+![AluraGeek-Home](https://github.com/FrankerJx/challenge-one-alurageek/assets/161277978/37a4ac4e-6094-4e30-90d8-223d81f1b7a9)
+
 ## Descripción
 
 El challenge implementa el uso de HTML, CSS y JavaScript así como el uso de la creación e interacción con uan Fake API para agregar y eliminar productos dentro del proyecto.

@@ -3,9 +3,13 @@
 Este challenge pertenece a la especialidad Front-End
 
 Versión Desktop
+
 ![AluraGeek-Desktop](https://github.com/FrankerJx/challenge-one-alurageek/assets/161277978/6c4a75ac-8a8f-47b4-bc74-251c343c63fa)
 
+--------
+
 Versión Mobile
+
 ![AluraGeek-Mobile](https://github.com/FrankerJx/challenge-one-alurageek/assets/161277978/434853e0-598c-4299-9950-df3c26c5e364)
 
 ## Descripción
